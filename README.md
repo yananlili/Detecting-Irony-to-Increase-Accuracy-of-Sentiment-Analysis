@@ -8,5 +8,5 @@ Hashtag Content, Non-linguistic Markers, Position, Content & Relationships betwe
 # Model:
 Multinomial Naive Bayes model
 # Evaluation:
-Confusion Matrix
+Confusion Matrix,
 Precision
